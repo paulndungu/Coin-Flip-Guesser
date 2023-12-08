@@ -1,0 +1,14 @@
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\bin\Debug\net8.0\Coin Flip Guesser.exe
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\bin\Debug\net8.0\Coin Flip Guesser.deps.json
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\bin\Debug\net8.0\Coin Flip Guesser.runtimeconfig.json
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\bin\Debug\net8.0\Coin Flip Guesser.dll
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\bin\Debug\net8.0\Coin Flip Guesser.pdb
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\Coin Flip Guesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\Coin Flip Guesser.AssemblyInfoInputs.cache
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\Coin Flip Guesser.AssemblyInfo.cs
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\Coin Flip Guesser.csproj.CoreCompileInputs.cache
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\Coin Flip Guesser.dll
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\refint\Coin Flip Guesser.dll
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\Coin Flip Guesser.pdb
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\Coin Flip Guesser.genruntimeconfig.cache
+C:\Users\pndun\Documents\C#\c# from sratch\Microsoft Learn C#\Coin flip guesser using conditional operators\Coin Flip Guesser\Coin Flip Guesser\obj\Debug\net8.0\ref\Coin Flip Guesser.dll
